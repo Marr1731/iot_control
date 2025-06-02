@@ -1,4 +1,4 @@
-const apiUrl = "http://54.84.27.88/api/devices";
+const apiUrl = "http://3.237.91.105/api/devices";
 let ipPublica = "";
 let comandos = [];
 
